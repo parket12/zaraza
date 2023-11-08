@@ -1,0 +1,17 @@
+C:\Users\xiaomi\source\repos\gavgav\gavgav\obj\Debug\net7.0\gavgav.csproj.AssemblyReference.cache
+C:\Users\xiaomi\source\repos\gavgav\gavgav\obj\Debug\net7.0\gavgav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaomi\source\repos\gavgav\gavgav\obj\Debug\net7.0\gavgav.AssemblyInfoInputs.cache
+C:\Users\xiaomi\source\repos\gavgav\gavgav\obj\Debug\net7.0\gavgav.AssemblyInfo.cs
+C:\Users\xiaomi\source\repos\gavgav\gavgav\obj\Debug\net7.0\gavgav.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\source\repos\gavgav\gavgav\bin\Debug\net7.0\gavgav.exe
+C:\Users\xiaomi\source\repos\gavgav\gavgav\bin\Debug\net7.0\gavgav.deps.json
+C:\Users\xiaomi\source\repos\gavgav\gavgav\bin\Debug\net7.0\gavgav.runtimeconfig.json
+C:\Users\xiaomi\source\repos\gavgav\gavgav\bin\Debug\net7.0\gavgav.dll
+C:\Users\xiaomi\source\repos\gavgav\gavgav\bin\Debug\net7.0\gavgav.pdb
+C:\Users\xiaomi\source\repos\gavgav\gavgav\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\xiaomi\source\repos\gavgav\gavgav\obj\Debug\net7.0\gavgav.csproj.CopyComplete
+C:\Users\xiaomi\source\repos\gavgav\gavgav\obj\Debug\net7.0\gavgav.dll
+C:\Users\xiaomi\source\repos\gavgav\gavgav\obj\Debug\net7.0\refint\gavgav.dll
+C:\Users\xiaomi\source\repos\gavgav\gavgav\obj\Debug\net7.0\gavgav.pdb
+C:\Users\xiaomi\source\repos\gavgav\gavgav\obj\Debug\net7.0\gavgav.genruntimeconfig.cache
+C:\Users\xiaomi\source\repos\gavgav\gavgav\obj\Debug\net7.0\ref\gavgav.dll

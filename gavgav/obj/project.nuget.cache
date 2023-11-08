@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "60UxV/klSz1VmpUHMuC55vWacyXDCScMAu0/Gv387gymHfbBG45CdH2gZiizkmdMGtW2OLZAGz5MH69PyWYmhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xiaomi\\source\\repos\\gavgav\\gavgav\\gavgav.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xiaomi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
